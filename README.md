@@ -15,4 +15,11 @@ The dataset contains imbalanced occurrences of object types, the person class ha
 Number of instances for each category
 <br>person -  12348
 <br>car    -   4424
+
+<p align="center">
+  <img src="https://github.com/saikumarmalla/custom-object-detection/blob/main/screenshots/data.png" width="200" title="plot">
+
+</p>
+
+
 ![alt text](https://github.com/saikumarmalla/custom-object-detection/blob/main/screenshots/data.png)
