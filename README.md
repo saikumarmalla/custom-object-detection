@@ -61,6 +61,6 @@ Tested the models on new images collected from web. The test results are in resu
 ## Conclusions and recommendations
 The given dataset is having more instances in one class than the other class. There are several ways we can improve the class imbalance.
 * I have done augmentation of lower class data instead of soing Downsampling the higher class. With down sampling we will loose the important imformation and size of the dataset will be reduced. We can apply some other techniques like using focal loss for training etc.
-* Note: As I am having limited GPU resources, I have done with 2 experiments only. 
+* Note: As I am having limited GPU resources, I could conduct 2 experiments only. 
 
 
