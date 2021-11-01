@@ -1,0 +1,14 @@
+
+
+
+
+train: /content/drive/MyDrive/EV/yolo_data/dataset2/train/images/  # train images (relative to 'path') 128 images
+val: /content/drive/MyDrive/EV/yolo_data/dataset2/valid/images/  # val images (relative to 'path') 128 images
+
+
+# Classes
+nc: 2  # number of classes
+names: ['person', 'car' ]  # class names
+
+
+
