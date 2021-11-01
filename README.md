@@ -34,8 +34,26 @@ Experiment 2:
 Adjusted class representations in the training set. Augmented entries from the minority class (i.e, car) to match the majority class (person). Applied 2 augmentation techniques lightening the image and adding Gaussian noise. <br>
 Dataset link: [Dataset 2](https://drive.google.com/drive/folders/1CKkfcVkkF5T-M3GqyADCpjHRoMbWETag?usp=sharing)
 
-### Results
+The trained model files are uploaded in the [Google Drive](https://drive.google.com/drive/folders/1toON70EAUBLJIhNJE6V361muuxZZ-oL_?usp=sharing)
 
+### Results
+Training results on the validation set (30 images)
+<br>
+Experiment 1:
+
+| Class          | Precision | Recall  | mAP
+| ------------- | ------------- |-------|---|
+|  all | 0.766| 0.587| 0.635  |
+|  person| 0.767| 0.56| 0.608  |
+|  car| 0.765| 0.613| 0.663  |
+
+Experiment 2:
+
+| Class          | Precision | Recall  | mAP
+| ------------- | ------------- |-------|---|
+|  all | 0.7| 0.698| 0.675  |
+|  person| 0.461| 0.472| 0.393  |
+|  car| 0.939| 0.923| 0.958 |
 
 ### Inference
 
